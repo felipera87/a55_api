@@ -1,0 +1,5 @@
+# this should be installed only on development environment
+pylint
+autopep8
+pylint-flask-sqlalchemy
+coverage

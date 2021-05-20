@@ -1,0 +1,5 @@
+[MASTER]
+init-hook='import sys; sys.path.append("./")'
+disable=missing-module-docstring,missing-function-docstring,missing-class-docstring
+ignore=migrations
+ignored-classes=scoped_session
